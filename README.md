@@ -1,2 +1,2 @@
 # Problem-Solving
- My solutions during practice
+ My Solutions During Practice
